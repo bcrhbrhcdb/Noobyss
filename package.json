@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/bcrhbrhcdb/Nooby#readme",
   "dependencies": {
+    "@vercel/analytics": "^1.4.1",
     "servor": "^4.0.2"
   }
 }
