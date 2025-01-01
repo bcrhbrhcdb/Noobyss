@@ -3,5 +3,6 @@
     "githubPullRequests.ignoredPullRequestBranches": [
         "master"
     ],
-    "inlineChat.showDiff": false
+    "inlineChat.showDiff": false,
+    "liveServer.settings.port": 5501
 }
